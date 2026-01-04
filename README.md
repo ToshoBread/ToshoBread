@@ -9,25 +9,27 @@
 
 ##
 
-I'm a developer based in the Philippines.
+I'm a software developer based in the Philippines.
 
 My main interests in Software Engineering are:
 
-- Memory Management
+- Micro-optimization
 - API Development
 - Full Stack Development
 
 I love learning and ~~coffee~~ personal development experiences.
 
-My current favorite project of mine is [Filtered Feels](https://github.com/ToshoBread/Filtered-Feels.git)
+My favorite project of mine is [Filtered Feels](https://github.com/ToshoBread/Filtered-Feels.git)
 which is a freedom wall web app I built using **Bootstrap** and **PHP**.
 
-My current main hobby is **Cybersecurity**, specializing in **Forensics** and **Reverse Engineering**.\
-I like playing Capture The Flag (CTF) challenges, they feel as if I'm solving escape rooms.
+Currently, my main hobby is programming in **Bash**, writing custom
+scripts to enhance my workflow, such as a **django-admin** wrapper
+with extended functionality tailored to my conventions.
 
 Other hobbies include:
 
 - Game Development
+- Cybersecurity (Specializing in **Forensics** and **RE**)
 - Anime
 - Nature Photography
 
