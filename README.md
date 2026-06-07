@@ -1,8 +1,8 @@
 <h1 align="center">Hi, Zion here!</h1>
 <div align="center">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&radius=80&i=lua,java,python,php,javascript,bash,typst"/>
+    <img src="https://skills.syvixor.com/api/icons?perline=15&radius=80&i=lua,java,python,php,typescript,bash,typst"/>
     <br>
-    <img src="https://skills.syvixor.com/api/icons?perline=15&radius=80&i=sass,bootstrap,laravel,react,reactnative,node,express,django"/>
+    <img src="https://skills.syvixor.com/api/icons?perline=15&radius=80&i=bootstrap,laravel,vue,reactnative,node,express"/>
     <br>
     <img src="https://skills.syvixor.com/api/icons?perline=15&radius=80&i=mysql,mariadb,sqlite,mongodb,firebase,supabase"/>
 </div>
@@ -19,12 +19,9 @@ My main interests in Software Engineering are:
 
 I love learning and ~~coffee~~ personal development experiences.
 
-My favorite project of mine is [Filtered Feels](https://github.com/ToshoBread/Filtered-Feels.git)
-which is a freedom wall web app I built using **Bootstrap** and **PHP**.
-
-Currently, my main hobby is programming in **Bash**, writing custom
+My current hobby is programming in **Bash**, writing custom
 scripts to enhance my workflow, such as a **django-admin** wrapper
-with extended functionality tailored to my conventions.
+with extended functionality tailored to custom conventions.
 
 Other hobbies include:
 
